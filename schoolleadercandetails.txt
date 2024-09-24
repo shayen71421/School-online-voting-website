@@ -1,0 +1,17 @@
+Candidate 1
+Name: shayen thomas
+Admission Number: 34
+Class: XII
+Photo: IMG_3342-PhotoRoom.png
+
+Candidate 2
+Name: silvy
+Admission Number: 43
+Class: X
+Photo: IMG_3342.jpg
+
+Candidate 2
+Name: silvy
+Admission Number: 43
+Class: X
+Photo: IMG_3342.jpg
